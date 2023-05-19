@@ -1,7 +1,7 @@
 {
   "app": {
     "version_code": 1,
-    "is_zipped": true,
+    "is_zipped": false,
     "package_name": "com.hello.world",
     "url": "https://github.com/kainaomi80/Hello-World/raw/main/hello_world.apk"
   },
